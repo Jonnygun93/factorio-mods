@@ -1,0 +1,17 @@
+{
+  "name": "flamethrower-rework",
+  "version": "0.0.3",
+  "title": "Flamethrower Rework",
+  "author": "Dreamshift",
+  "dependencies": [
+    "base >= 2.0.0"
+  ],
+   "description": "Balances flamethrowers. Flamethrowers deal considerably less damage, but will hit enemies much more reliably without dragging behind them. Fluid consumption is increased. Heavy and light oil give much better damage buffs. Everything is configurable, including range and firing arc size.",
+  "factorio_version": "2.0",
+  "package": {
+    "ignore": [
+      "exclude-from-package/*",
+      "*~"
+    ]
+  }
+}
