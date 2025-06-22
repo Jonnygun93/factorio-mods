@@ -1,2 +1,2 @@
 The Basis of this mod is taken from the mod "Flamethrower Rework" by GreyShade, version 0.0.3, with the License "The Unlicense (Public Domain)". 
-If he had any Source or Homepage listed on mods.factorio.com, this is where I would link to them. 
+If he had had any Source or Homepage listed on mods.factorio.com, this is where I would link to them. 

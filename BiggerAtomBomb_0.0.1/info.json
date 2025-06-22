@@ -1,12 +1,13 @@
 {
-  "name": "flamethrower-rework",
-  "version": "0.0.3",
-  "title": "Flamethrower Rework",
-  "author": "Dreamshift",
+  "name": "BiggerAtomBomb",
+  "version": "0.0.1",
+  "title": "Bigger Atom Bomb",
+  "author": "jonnygun93",
   "dependencies": [
     "base >= 2.0.0"
   ],
-   "description": "Balances flamethrowers. Flamethrowers deal considerably less damage, but will hit enemies much more reliably without dragging behind them. Fluid consumption is increased. Heavy and light oil give much better damage buffs. Everything is configurable, including range and firing arc size.",
+  "source": "https://github.com/Jonnygun93/factorio-mods",
+  "description": "Changes the atom bomb damage and range through two configuration options. Be careful with the range modifier.",
   "factorio_version": "2.0",
   "package": {
     "ignore": [
